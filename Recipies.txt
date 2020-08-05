@@ -4,3 +4,5 @@ Welcome to Telusko
 
 pasta
 pickle
+
+gobi
